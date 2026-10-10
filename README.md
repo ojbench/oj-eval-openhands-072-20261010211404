@@ -1,5 +1,7 @@
 # Problem 072 - RISC-V Simulator 2022
 
+<!-- Updated placeholder solution -->
+
 **ACMOJ Problem ID**: 1605
 
 ## Table of Contents
