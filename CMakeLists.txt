@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
 project(riscv_simulator)
 set(CMAKE_CXX_STANDARD 17)
-add_executable(code main.cpp)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR})
+add_executable(code code.cpp)
